@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/hall"
+        android:title="BEES"
+        app:cnb_backgroundColor="#FFD600"
+        app:cnb_iconColor="#000000"
+        app:cnb_textColor="#000000" />
+
+    <item
+        android:id="@+id/cart"
+        android:icon="@drawable/bee"
+        android:title="Bees List"
+        app:cnb_backgroundColor="#FFD600"
+        app:cnb_iconColor="#000000"
+        app:cnb_textColor="#000000" />
+
+    <item
+        android:id="@+id/profile"
+        android:icon="@drawable/blog"
+        android:title="Blog"
+        app:cnb_backgroundColor="#FFD600"
+        app:cnb_iconColor="#000000"
+        app:cnb_textColor="#000000" />
+</menu>
